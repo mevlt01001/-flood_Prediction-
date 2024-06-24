@@ -91,5 +91,5 @@ Yapay Sinir Ağları modeli, sel tahmininde iyi bir performans göstermiştir. K
 - Daha gelişmiş modellerin kullanılması
 
 
-
-- [Kaggle Proje Sayfası](https://www.kaggle.com/code/mevltbaaran/flood-prediction)
+---
+[Kaggle Proje Sayfası](https://www.kaggle.com/code/mevltbaaran/flood-prediction)
