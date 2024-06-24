@@ -2,7 +2,7 @@
 
 Bu proje, sel olaylarını makine öğrenmesi teknikleri kullanarak tahmin etmeyi amaçlamaktadır. Veri seti, yağış miktarı, sıcaklık ve nem gibi çeşitli çevresel parametreleri içermektedir. Proje, sel olaylarını tahmin etmek için farklı modelleri kullanmakta ve bu modellerin performansını karşılaştırmaktadır. Bu çalışma, bir Kaggle yarışmasında gerçekleştirilmiş olup, doğruluk oranı %86.379 olarak elde edilmiştir.
 
-<a href="https://www.kaggle.com/code/mevltbaaran/flood-prediction" target="_blank">Kaggle Proje Sayfası</a>
+<a href="https://www.kaggle.com/code/mevltbaaran/flood-prediction" target="_blank|_top">Kaggle Proje Sayfası</a>
 
 
 ## İçindekiler
@@ -93,5 +93,5 @@ Yapay Sinir Ağları modeli, sel tahmininde iyi bir performans göstermiştir. K
 
 
 ---
-<a href="https://www.kaggle.com/code/mevltbaaran/flood-prediction" target="_blank">Kaggle Proje Sayfası</a>
+<a href="https://www.kaggle.com/code/mevltbaaran/flood-prediction" target="_blank|_top">Kaggle Proje Sayfası</a>
 
