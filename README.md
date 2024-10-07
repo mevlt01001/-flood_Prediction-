@@ -56,12 +56,6 @@ from tensorflow.keras.layers import Dense
 
 # Model oluşturma
 model = Sequential()
-model.add(Dense(64, input_dim=scaled_data.shape[1], activation='relu'import numpy as np
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-
-# Model oluşturma
-model = Sequential()
 model.add(Dense(64, input_dim=scaled_data.shape[1], activation='relu'))
 model.add(Dense(32, activation='relu'))
 model.add(Dense(1, activation='sigmoid'))
